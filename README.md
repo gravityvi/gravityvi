@@ -1,7 +1,7 @@
 ### Hi there 👋
   
 - 🔭 I’m currently working on [Nightwatch.js](https://nightwatchjs.org)
-- 🌱 I’m trying to learn [Deno](https://deno.land).
+- 🌱 I’m trying to learn Rust.
 - 👯 I would be happy to help on Nightwatch as I am actively contributing to it.
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/gravity_vi)
